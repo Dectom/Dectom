@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy Folks 👋
+
+My names Declan O'Driscoll, AKA Dectom. I'm a Developer from Manchester, United Kingdom. 
 
 <!--
 **Dectom/Dectom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
